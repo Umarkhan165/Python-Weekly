@@ -1,0 +1,8 @@
+=== Log Report ===
+INFO logs: 2
+WARNING logs: 1
+ERROR logs: 2
+
+Error Details:
+[2025-08-17 10:18:45] ERROR: Failed to connect to database
+[2025-08-17 10:21:22] ERROR: Timeout while processing request
