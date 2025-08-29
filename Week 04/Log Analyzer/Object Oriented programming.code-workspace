@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/BUTT SYSTEMS/Documents/Sem 2/Object Oriented programming"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../To-Do(GUI, CLI, Web app) Pyhton"
+		},
+		{
+			"path": "../../../Pyhton Projects"
+		},
+		{
+			"path": "../../../File Zipper(Gui) Pyhton"
+		},
+		{
+			"path": "../../../Daily Journal Maker(CLI)"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Object Oriented programming"
+	}
+}
