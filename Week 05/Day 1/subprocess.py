@@ -49,16 +49,16 @@ import time
 # Moves file form one destination to Another one.
 
 
-# Copy a file
-# subprocess.run(["copy","D:\Python Weekly\Week 05\main.py", "D:\C++"] , shell=True)
+#Copy a file
+subprocess.run(["copy","D:\Python Weekly\Week 05\main.py", "D:\C++"] , shell=True)
 
-# subprocess.run(["del", "Python Weekly\Week 05\new.txt"], shell=True)
+subprocess.run(["del", "Python Weekly\Week 05\new.txt"], shell=True)
 
 # Use teh above commadn correcty "Warning"
 
 # For running other scripts:
 
-# subprocess.run(["python", "D:\Python Weekly\Week 05\example.py"])
+subprocess.run(["python", "D:\Python Weekly\Week 05\example.py"])
 
 # Output: 
 #   subprocess.run(["python", "D:\Python Weekly\Week 05\example.py"])

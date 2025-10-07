@@ -1,0 +1,40 @@
+[2025-09-13 19:51:18] Network Scan:
+  - Found 17 devices:
+  - IP: 192.168.217.255, MAC: ff-ff-ff-ff-ff-ff, Type: static
+  - IP: 224.0.0.22, MAC: 01-00-5e-00-00-16, Type: static
+  - IP: 224.0.0.251, MAC: 01-00-5e-00-00-fb, Type: static
+  - IP: 224.0.0.252, MAC: 01-00-5e-00-00-fc, Type: static
+  - IP: 239.255.255.250, MAC: 01-00-5e-7f-ff-fa, Type: static
+  - IP: 192.168.100.1, MAC: c4-47-3f-9d-83-02, Type: dynamic
+  - IP: 192.168.100.255, MAC: ff-ff-ff-ff-ff-ff, Type: static
+  - IP: 224.0.0.22, MAC: 01-00-5e-00-00-16, Type: static
+  - IP: 224.0.0.251, MAC: 01-00-5e-00-00-fb, Type: static
+  - IP: 224.0.0.252, MAC: 01-00-5e-00-00-fc, Type: static
+  - IP: 239.255.255.250, MAC: 01-00-5e-7f-ff-fa, Type: static
+  - IP: 255.255.255.255, MAC: ff-ff-ff-ff-ff-ff, Type: static
+  - IP: 192.168.79.255, MAC: ff-ff-ff-ff-ff-ff, Type: static
+  - IP: 224.0.0.22, MAC: 01-00-5e-00-00-16, Type: static
+  - IP: 224.0.0.251, MAC: 01-00-5e-00-00-fb, Type: static
+  - IP: 224.0.0.252, MAC: 01-00-5e-00-00-fc, Type: static
+  - IP: 239.255.255.250, MAC: 01-00-5e-7f-ff-fa, Type: static
+
+[2025-09-13 20:06:15] Network Scan:
+  - Found 17 devices:
+  - IP: 192.168.217.255, MAC: ff-ff-ff-ff-ff-ff, Type: static
+  - IP: 224.0.0.22, MAC: 01-00-5e-00-00-16, Type: static
+  - IP: 224.0.0.251, MAC: 01-00-5e-00-00-fb, Type: static
+  - IP: 224.0.0.252, MAC: 01-00-5e-00-00-fc, Type: static
+  - IP: 239.255.255.250, MAC: 01-00-5e-7f-ff-fa, Type: static
+  - IP: 192.168.100.1, MAC: c4-47-3f-9d-83-02, Type: dynamic
+  - IP: 192.168.100.255, MAC: ff-ff-ff-ff-ff-ff, Type: static
+  - IP: 224.0.0.22, MAC: 01-00-5e-00-00-16, Type: static
+  - IP: 224.0.0.251, MAC: 01-00-5e-00-00-fb, Type: static
+  - IP: 224.0.0.252, MAC: 01-00-5e-00-00-fc, Type: static
+  - IP: 239.255.255.250, MAC: 01-00-5e-7f-ff-fa, Type: static
+  - IP: 255.255.255.255, MAC: ff-ff-ff-ff-ff-ff, Type: static
+  - IP: 192.168.79.255, MAC: ff-ff-ff-ff-ff-ff, Type: static
+  - IP: 224.0.0.22, MAC: 01-00-5e-00-00-16, Type: static
+  - IP: 224.0.0.251, MAC: 01-00-5e-00-00-fb, Type: static
+  - IP: 224.0.0.252, MAC: 01-00-5e-00-00-fc, Type: static
+  - IP: 239.255.255.250, MAC: 01-00-5e-7f-ff-fa, Type: static
+

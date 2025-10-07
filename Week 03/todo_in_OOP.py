@@ -41,7 +41,6 @@ class ToDoApp:
             print(f"Task '{removed.title}' deleted!")
         else:
             print("Invalid task number!")
-
 app = ToDoApp()
 
 while True:
